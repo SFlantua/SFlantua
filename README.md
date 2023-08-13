@@ -1,17 +1,23 @@
-### Suzette Flantua ✨
+## Suzette Flantua ✨🌎🏔️🌿🦜
 
 I am a researcher at the University of Bergen (Norway) with focus on mountain biodiversity and Quaternary ecosystem dynamics, to understand how past environmental drivers (geology, climate, humans) shaped biodiversity of today.
 
-- 🔭 I’m currently working on the long-term history of [alpine biomes](https://mountainsinmotion.w.uib.no/) and Holocene vegetation dynamics and human impact across the world. 
-- 📫 How to reach me: find my work email here [email](https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua)
+- 🔭 I’m currently working on the long-term history of [alpine biomes](https://mountainsinmotion.w.uib.no/) and Holocene vegetation dynamics and human impact across the world 🌍🌎🌏. 
+- 📫 How to reach me: find my work email here [work website](https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua)
 - 😄 Pronouns: she/her
 
+
 ------------------------------------------------
-Personal website
+
+## Personal website
 
 I have a website with background on my current projects, my cv and publications. Check it out [here](https://suzetteflantua.github.io)
 
+
 ------------------------------------------------
+
+
+## Nifty R-packages to work with fossil pollen data
 
 These R-packages you can find across my papers (Leading developer [Ondrej Mottl](https://ondrejmottl.github.io/):
 
