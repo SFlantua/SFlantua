@@ -5,13 +5,13 @@ I am a researcher at the University of Bergen (Norway) with focus on mountain bi
 - 🔭 I’m currently working on the long-term history of [alpine biomes](https://mountainsinmotion.w.uib.no/) and Holocene vegetation dynamics and human impact across the world 🌍🌎🌏. 
 - 📫 How to reach me: find my work email here [work website](https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua)
 - 😄 Pronouns: she/her
-
+- 🌎 I am leading several projects on late Quaternary vegetation dynamics in a collaborative network of researchers around the world. Check them out here on my personal [website](https://sflantua.github.io/projects/)
 
 ------------------------------------------------
 
 ## Personal website
 
-I have a website with background on my current projects, my cv and publications. Check it out [here](https://suzetteflantua.github.io)
+You can find more about me, my current projects, my cv and publications on my personal [website](https://sflantua.github.io).
 
 
 ------------------------------------------------
