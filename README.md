@@ -25,7 +25,7 @@ These R-packages you can find across my papers (Leading developer [Ondrej Mottl]
 |---------|--------------|-----------|
 | [R-Ratepol](https://github.com/HOPE-UIB-BIO/R-Ratepol-package) | R-Ratepol is an R package for estimating rate of change (RoC) from community data in time series | [Mottl et al 2021](https://www.sciencedirect.com/science/article/pii/S003466672100107X); [Mottl & Flantua, et al. 2021](https://www.science.org/doi/10.1126/science.abg1685) |
 | [R-Fossilpol](https://github.com/HOPE-UIB-BIO/R-Fossilpol-package) | R-Fossilpol is an R-package to source, standardize, harmonize, and filter large fossil pollen dataset compilations | [Flantua et al. 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.13693) |
-| [R-Ecolpol](https://github.com/ropensci/terrainr) | R-Ecolpol is an R-package with various easy to use functions to analyse fossil pollen data | [Bhatta et al. 2023](https://www.frontiersin.org/articles/10.3389/fevo.2023.1115784/full) |
+| [R-Ecopol](https://github.com/HOPE-UIB-BIO/R-Ecopol-package) | R-Ecolpol is an R-package with various easy to use functions to analyse fossil pollen data | [Bhatta et al. 2023](https://www.frontiersin.org/articles/10.3389/fevo.2023.1115784/full) |
 
 
 
