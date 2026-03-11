@@ -2,10 +2,10 @@
 
 I am a researcher at the University of Bergen (Norway) with focus on mountain biodiversity and Quaternary ecosystem dynamics, to understand how past environmental drivers (geology, climate, humans) shaped biodiversity of today.
 
-- 🔭 I’m currently working on the long-term history of [alpine biomes](https://mountainsinmotion.w.uib.no/) and Holocene vegetation dynamics and human impact across the world 🌍🌎🌏. 
+- 🔭 I’m currently working on the long-term history of [mountain dynamics](https://mountainsinmotion.w.uib.no/) and Holocene vegetation dynamics and human impact across the world 🌍🌎🌏. 
 - 📫 How to reach me: find my work email here [work website](https://www.uib.no/en/persons/Suzette.Geertruida.Anna.Flantua)
 - 😄 Pronouns: she/her
-- 🌎 I am leading several projects on late Quaternary vegetation dynamics in a collaborative network of researchers around the world.
+- 🌎 I am leading several projects on mountain dynamics on short and long time scales, covering the biosphere, atmosphere, geosphere and cryosphere. 
 
 ------------------------------------------------
 
